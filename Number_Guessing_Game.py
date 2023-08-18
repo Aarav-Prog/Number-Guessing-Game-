@@ -1,5 +1,5 @@
 import random
-secret_number = random.randrange(1, 120)
+secret_number = random.randrange(1, 20)
 guess_count = 0
 guess_limit = 6
 print("Welcome to a Number guessing game made by Aarav ")
